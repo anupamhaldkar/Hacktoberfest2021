@@ -10,13 +10,17 @@
 <h2> Quality over Quantity :) <h2>
   
 
- IF you have any doubts regarding "How to merge your first PR" , checkout this video:<br>
-  
+ IF you have any doubts regarding "How to merge your first PR" , checkout this video:
+  <br>
+  <br>
 <p><a target="_blank" href="https://hacktoberfest.digitalocean.com/resources?wvideo=tf3u5ruz5y"><img src="https://embedwistia-a.akamaihd.net/deliveries/4bdee00ef68274f35bc6ad84ac1e49c6.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1e71e7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p>
 
-**Note : Don't add small changes in README file. PRs will be labelled "invalid" & closed immediately . Please add unique Repos**
 
-**You will be banned indefinately from Hacktoberfest after two invalid PRs.**
+ <div> Note : Don't add small changes in README file. PRs will be labelled "invalid" & closed immediately . Please add unique Repos
+   </div>
+<br>
+  
+  <div> You will be banned indefinetely from Hacktoberfest after <quote>two</quote> invalid PRs.</div>
   
   </div>
 
