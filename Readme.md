@@ -24,7 +24,7 @@
   
   </div>
 
-  <h3 align="center"> What to do ❓</h3>
+  <h3 align="center"> 🙄 What to do ❓</h3>
  
   <div>
 <ul>
@@ -33,7 +33,7 @@
 </ul>
  </div>
   <hr>
-   <h3 align="center"> How to do ❓</h3>
+   <h3 align="center"> 🧠 How to do ❓</h3>
   
   <div>
     <ul>
@@ -46,26 +46,19 @@
 
 </div>
   <hr>
-  <br>
-  
-  <div>
-    
-  </div>
-  
 
-  <br>
-  <h2>
+ 
+  <h3 align="center">
     Detailed Info - <a target="_blank" href="https://github.com/anupamhaldkar/Hacktoberfest2021/blob/main/contributors.md">contributors.md </a>
-  </h2>
-  
-<br>
-    <h2>
-    ✨(star) this repository if you find useful
-    </h2><br>
+  </h3>
+
+   <h3 align="center">
+    Give a ✨ if you find useful
+    </h3><br>
+
+<hr>
 
 
-
-
-Best of LUCK 🙌 for **Hacktoberfest** :)
+  <h1 align="center">Best of LUCK 🙌 for **Hacktoberfest** </h1>
   
 
