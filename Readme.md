@@ -57,6 +57,6 @@
 <hr>
 
 
-  <h1 align="center">Best of LUCK 🙌 for **Hacktoberfest** </h1>
+  <h1 align="center">Best of LUCK 🙌 for Hacktoberfest </h1>
   
 
