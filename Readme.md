@@ -24,20 +24,22 @@
   
   </div>
 
-### What to do ❓
+  <h3> What to do ❓</h3>
+  <div>
 Add favourite project, blog links that has significantly impacted to your journey to Open-Source.
-**Add your Projects, Blogs under the respective folder only**
-
+Add your Projects, Blogs under the respective folder only
+</div>
+  <br>
+  <div>
 It can be any of any length and can be any number of scripts, just **add a folder with your projects name.**
+  </div>
 
-
-### What's next ❓
+  <h3> What's next ❓ </h3>
 After you've added code, just come back to the README and add your name under contributor's list and you're done.
 
-### Maintainer
-[Anupam Haldkar](https://twitter.com/anupamhaldkar)
 
 
-## Make Valid PR 🙌 for **Hacktoberfest** :)
+
+Make Valid PR 🙌 for **Hacktoberfest** :)
   
 
