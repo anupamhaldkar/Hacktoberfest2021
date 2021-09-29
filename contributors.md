@@ -1,3 +1,7 @@
+<div align="center">
+            <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="700" height="300" style="width: 700px; height: 300px;">
+</div>
+
 # How to contribute
 1.  Register yourself for <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2021</a>
 2. Fork the project
