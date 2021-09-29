@@ -4,10 +4,10 @@
 
 
 
-# Hacktoberfest2021_Open-Source-Projects_Blogs
+  <h1> Hacktoberfest2021_Open-Source-Projects_Blogs</h1>
   
 
-## Quality over Quantity :)
+<h2> Quality over Quantity :) <h2>
   
 
  IF you have any doubts regarding "How to merge your first PR" , checkout this video:<br>
