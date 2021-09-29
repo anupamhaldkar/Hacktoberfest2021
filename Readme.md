@@ -4,7 +4,7 @@
 
 
 
-  <h1> Hacktoberfest2021_Open-Source-Projects_Blogs</h1>
+  <h1> Hacktoberfest2021_Open-Source-Projects</h1>
   
 
 <h2> Quality over Quantity :) <h2>
@@ -20,26 +20,52 @@
    </div>
 <br>
   
-  <div> You will be banned indefinetely from Hacktoberfest after <quote>two</quote> invalid PRs.</div>
+  <div> You will be banned indefinetely from Hacktoberfest after <bold>two</bold> invalid PRs.</div>
   
   </div>
 
-  <h3> What to do ❓</h3>
+  <h3 align="center"> What to do ❓</h3>
+ 
   <div>
-Add favourite project, blog links that has significantly impacted to your journey to Open-Source.
-Add your Projects, Blogs under the respective folder only
+<ul>
+     <li> Add favourite project that has significantly impacted to your journey to Open-Source.</li>
+     <li> It can be any of any length and can be any number of scripts, just add a folder with your projects name.</li>
+</ul>
+ </div>
+  <hr>
+   <h3 align="center"> How to do ❓</h3>
+  
+  <div>
+    <ul>
+      <li> Clone your forked repository to your pc ( git clone "url from clone option.)	</li>
+      <li>Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)</li>
+      <li>Add your Project in the folder name `project`</li>
+      <li>Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)</li>
+      <li>Create a pull request	</li>
+    </ul>
+
 </div>
+  <hr>
   <br>
+  
   <div>
-It can be any of any length and can be any number of scripts, just **add a folder with your projects name.**
+    
   </div>
+  
 
-  <h3> What's next ❓ </h3>
-After you've added code, just come back to the README and add your name under contributor's list and you're done.
+  <br>
+  <h2>
+    Detailed Info - <a target="_blank" href="https://github.com/anupamhaldkar/Hacktoberfest2021/blob/main/contributors.md">contributors.md </a>
+  </h2>
+  
+<br>
+    <h2>
+    ✨(star) this repository if you find useful
+    </h2><br>
 
 
 
 
-Make Valid PR 🙌 for **Hacktoberfest** :)
+Best of LUCK 🙌 for **Hacktoberfest** :)
   
 
