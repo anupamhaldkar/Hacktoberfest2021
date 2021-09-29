@@ -21,8 +21,6 @@
 <br>
   
   <div> You will be banned indefinetely from Hacktoberfest after <bold>two</bold> invalid PRs.</div>
-  
-  </div>
 
   <h3 align="center"> 🙄 What to do ❓</h3>
  
