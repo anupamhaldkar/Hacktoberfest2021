@@ -1,0 +1,2 @@
+rootProject.name = "updown"
+include ':app'
